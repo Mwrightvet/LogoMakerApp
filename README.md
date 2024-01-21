@@ -1,5 +1,5 @@
 # LogoMakerApp
-by Melissa Wright 
+by M. Wright 
  
 
 
