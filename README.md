@@ -22,6 +22,7 @@ App that takes user input to generate a logo and save it as an SVG file
 - [Jest](https://jestjs.io/) (version latest)
 - (Any other dependencies you might have)
 - ignore the node_modules from remote
+- to run, first 
 
 ## Credits
 -
