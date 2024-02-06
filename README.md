@@ -32,7 +32,7 @@ App that takes user input to generate a logo and save it as an SVG file
 
 
 ## DEMO
-[![Demo](https://github.com/Mwrightvet/[inserthere].gif)](https://github.com/Mwrightvet/[inserthere].gif)
+[![Demo](https://github.com/Mwrightvet/LogoMakerApp/blob/main/demo/Untitled_%20Feb%205%2C%202024%209_37%20PM.webm)](https://github.com/Mwrightvet/LogoMakerApp/blob/main/demo/Untitled_%20Feb%205%2C%202024%209_37%20PM.webm)
 
 
  
