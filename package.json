@@ -16,5 +16,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "color": "^4.2.3",
+    "color-name": "^1.1.4"
   }
 }

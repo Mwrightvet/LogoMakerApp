@@ -1,6 +1,7 @@
 # LogoMakerApp
 by M. Wright 
- 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
  ## Table of Contents 
@@ -12,7 +13,6 @@ by M. Wright
 - [DEMO](#DEMO)
  
  
-
 ## Description 
 App that takes user input to generate a logo and save it as an SVG file
 
@@ -25,7 +25,6 @@ App that takes user input to generate a logo and save it as an SVG file
 - to run, first 
 
 ## Credits
--
 - Screencastify 
 
 ## License
