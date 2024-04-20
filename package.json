@@ -1,0 +1,24 @@
+{
+  "name": "logomaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node lib/logoGenerator.js",
+    "test": "jest lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "color": "^4.2.3",
+    "color-name": "^1.1.4"
+  }
+}

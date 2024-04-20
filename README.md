@@ -1,6 +1,7 @@
 # LogoMakerApp
 by M. Wright 
- 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
  ## Table of Contents 
@@ -12,7 +13,6 @@ by M. Wright
 - [DEMO](#DEMO)
  
  
-
 ## Description 
 App that takes user input to generate a logo and save it as an SVG file
 
@@ -22,9 +22,9 @@ App that takes user input to generate a logo and save it as an SVG file
 - [Jest](https://jestjs.io/) (version latest)
 - (Any other dependencies you might have)
 - ignore the node_modules from remote
+- to run, first 
 
 ## Credits
--
 - Screencastify 
 
 ## License
@@ -32,7 +32,7 @@ App that takes user input to generate a logo and save it as an SVG file
 
 
 ## DEMO
-[![Demo](https://github.com/Mwrightvet/[inserthere].gif)](https://github.com/Mwrightvet/[inserthere].gif)
+[![Demo](https://github.com/Mwrightvet/LogoMakerApp/blob/main/demo/Logo_Demo_%20Feb%205%2C%202024%209_37%20PM.gif)](https://github.com/Mwrightvet/LogoMakerApp/blob/main/demo/Logo_Demo_%20Feb%205%2C%202024%209_37%20PM.gif)
 
 
  
